@@ -1,2 +1,2 @@
-# -ml-hw-current_season-current_year-python-
+# -ml-hw-2026-python-
 ML basic startups
